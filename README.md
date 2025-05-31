@@ -11,7 +11,9 @@
 🎯 Стремлюсь стать профессионалом и делать полезные вещи своими руками.
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+  <a href= ''>
+    <img width="100" src="https://gw.alipayobjects.com/mdn/rms_0d75e8/afts/img/A*T3edT7ChQTQAAAAAAAAAAAAAARQnAQ">
+  </a>
 </p>
 
 ---
