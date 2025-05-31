@@ -13,6 +13,10 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848919/programmer_girl.gif" width="300" />
 </p>
+<h1 align="center">
+  <img src="https://https://media.istockphoto.com/id/1218017051/photo/profile-side-photo-of-concentrated-skilled-web-expert-afro-american-girl-sit-evening-desk-use.jpg?s=612x612&w=0&k=20&c=dQJAXyU20JuCfY594PIBgl3RgMHnDyEWC9VF6vOFBkg=/giphy.gif" width="35"/> 
+ lala
+</h1>
 
 
 ---
